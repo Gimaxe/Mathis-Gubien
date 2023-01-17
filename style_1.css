@@ -45,11 +45,13 @@ body {
 @font-face {
     font-family: "MaPolice_Titre";
     src: url("CV_Mathis_Gubien/Caxo.otf") format("truetype");
+    font-display: swap
 }
 
 @font-face {
     font-family: "MaPolice_Text";
     src: url("CV_Mathis_Gubien/NotesSans.otf") format("truetype");
+    font-display: swap
 }
 
 .center-frame {
