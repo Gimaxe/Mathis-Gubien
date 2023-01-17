@@ -51,3 +51,8 @@ body {
     font-family: "MaPolice_Text";
     src: url("CV_Mathis_Gubien/NotesSans.otf") format("truetype");
 }
+
+.center-frame {
+    margin: auto;
+    width: 50%; 
+  }
