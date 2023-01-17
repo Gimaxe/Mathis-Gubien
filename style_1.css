@@ -1,0 +1,53 @@
+.color_text {
+	color : rgba(255, 255, 255, 0.842);
+}
+
+centre {
+    text-align: center;
+}
+
+.centre2 {
+    text-align: center;
+}
+
+body {
+    background-color: #616161; /* ou la couleur souhaitée */
+    background-image: url("CV_Mathis_Gubien/Fond_Triangle.png");
+    background-size: 200px 200px; /* pour adapter l'image à la taille de la fenêtre */
+    background-repeat: repeat; /* pour ne pas répéter l'image */
+}
+
+.color_block {
+    background-color: rgb(0, 0, 0); /* ou la couleur souhaitée */
+}
+
+.block2 {
+    background-color: rgb(255, 255, 255); /* ou la couleur souhaitée */
+    border-width: 2px; /* ou la taille souhaitée */
+	border-style: inset; /* ou le style souhaité */
+    border-color: rgb(0, 0, 0); /* ou la couleur souhaitée */
+    border-radius: 30px;
+    padding-left: 0.5cm;
+    padding-bottom: 0.5cm;
+    padding-top: 0.1cm;
+}
+
+.cadre_block {
+    border-width: 3px; /* ou la taille souhaitée */
+	border-style: inset; /* ou le style souhaité */
+    border-color: rgb(0, 0, 0); /* ou la couleur souhaitée */
+}
+
+.cadre_block_ombre {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.534); /* ou les valeurs souhaitées pour l'ombre */
+}
+
+@font-face {
+    font-family: "MaPolice_Titre";
+    src: url("CV_Mathis_Gubien/Caxo.otf") format("truetype");
+}
+
+@font-face {
+    font-family: "MaPolice_Text";
+    src: url("CV_Mathis_Gubien/Rosewell.otf") format("truetype");
+}

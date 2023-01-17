@@ -1,0 +1,13 @@
+body {
+    background-color: #000000; /* ou la couleur souhaitée */
+}
+
+.centre {
+    text-align: center;
+}
+
+.color_text {
+	color : rgba(255, 255, 255, 0.842);
+}
+
+
