@@ -59,6 +59,11 @@ body {
     width: 300px; 
 }
 
+.center-frame2 {
+    margin: auto;
+    width: 1000px; 
+}
+
 .button {
     font-family: "MaPolice_Titre";
     src: url("CV_Mathis_Gubien/Caxo.otf") format("truetype");
