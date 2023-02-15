@@ -1,0 +1,31 @@
+body {
+    background-color: #000000; /* ou la couleur souhaitée */
+}
+
+.centre {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.centre2 {
+    text-align: center;
+
+}
+
+.color_text {
+	color : rgba(255, 255, 255, 0.842);
+}
+
+.block2 {
+    background-color: rgb(255, 255, 255); /* ou la couleur souhaitée */
+    border-width: 2px; /* ou la taille souhaitée */
+	border-style: inset; /* ou le style souhaité */
+    border-color: rgb(0, 0, 0); /* ou la couleur souhaitée */
+    border-radius: 30px;
+    padding-left: 0.5cm;
+    padding-bottom: 0.5cm;
+    padding-top: 0.1cm;
+}
