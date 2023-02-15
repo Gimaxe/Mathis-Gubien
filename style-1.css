@@ -8,7 +8,7 @@
 
 body {
     background-color: #616161; /* ou la couleur souhaitée */
-    background-image: url("CV_Mathis_Gubien/Fond_Triangle.png");
+    background-image: url("CV-Mathis-Gubien/Fond-triangle.png");
     background-size: 200px 200px; /* pour adapter l'image à la taille de la fenêtre */
     background-repeat: repeat; /* pour ne pas répéter l'image */
 }
@@ -40,13 +40,13 @@ body {
 
 @font-face {
     font-family: "MaPolice_Titre";
-    src: url("CV_Mathis_Gubien/Caxo.otf") format("truetype");
+    src: url("CV-Mathis-Gubien/Caxo.otf") format("truetype");
     font-display: swap
 }
 
 @font-face {
     font-family: "MaPolice_Text";
-    src: url("CV_Mathis_Gubien/NotesSans.otf") format("truetype");
+    src: url("CV-Mathis-Gubien/NotesSans.otf") format("truetype");
     font-display: swap
 }
 
@@ -62,7 +62,7 @@ body {
 
 .button {
     font-family: "MaPolice_Titre";
-    src: url("CV_Mathis_Gubien/Caxo.otf") format("truetype");
+    src: url("CV-Mathis-Gubien/Caxo.otf") format("truetype");
     color:#e4e2e2;
     border-color:#ffffff;
     font-weight:bold;
